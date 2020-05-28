@@ -1,0 +1,7 @@
+md5: abbbcd330ee4c5eb87c7c90f471d64f5
+outs:
+- md5: b1946ac92492d2347c6235b4d2611184
+  path: hello.txt
+  cache: true
+  metric: false
+  persist: false
